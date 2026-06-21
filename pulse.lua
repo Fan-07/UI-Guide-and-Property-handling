@@ -7,3 +7,6 @@ while true do
     TweenService:Create(frame, TweenInfo.new(0.8), {BackgroundTransparency = 0}):Play()
     task.wait(0.8)
 end
+
+
+--set your own scale
