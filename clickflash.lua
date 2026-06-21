@@ -10,3 +10,4 @@ button.MouseButton1Click:Connect(function()
         BackgroundColor3 = Color3.fromRGB(80, 40, 120)   -- makes it purple for whatever reason (set your own rbg values to choose your color)
     }):Play()
 end)
+--set your own scale
