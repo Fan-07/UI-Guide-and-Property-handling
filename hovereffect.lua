@@ -7,3 +7,5 @@ end)
 button.MouseLeave:Connect(function()
     button.BackgroundColor3 = Color3.fromRGB(255, 255, 255) -- back to normal
 end)
+
+--set your own scale
