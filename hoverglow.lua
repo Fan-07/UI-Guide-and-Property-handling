@@ -14,3 +14,5 @@ button.MouseLeave:Connect(function()
         Size = UDim2.new(0.2, 0, 0.2, 0)
     }):Play()
 end)
+
+--set your own scale
