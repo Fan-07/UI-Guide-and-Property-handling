@@ -26,5 +26,5 @@ Or if youre storing in StarterPLayerScipts:
 StarterPlayerScripts
  └── LocalScript (UIController and controls for all places)
 
-
+ you have to add in to the script to control other GUIs
  
