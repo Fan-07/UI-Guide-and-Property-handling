@@ -9,3 +9,5 @@ button.MouseButton1Click:Connect(function()
     task.wait(0.1)
     TweenService:Create(button, smallInfo, {Size = UDim2.new(0.3, 0, 0.12, 0)}):Play()
 end)
+
+--set your own scale
