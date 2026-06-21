@@ -7,3 +7,5 @@ local info = TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
 
 local tween = TweenService:Create(frame, info, goal)
 tween:Play()
+
+--set your own scale
